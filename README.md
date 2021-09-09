@@ -5,5 +5,5 @@
 - [Crafting discoverable repositories](discoverable/)
 - [Useful templates](templates/)
 - [Measuring success](metrics/)
-- [Repository ownership] (repo-ownership/)
+- [Repository ownership](repo-ownership/)
 - [Workflows](workflows/)
